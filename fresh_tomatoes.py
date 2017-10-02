@@ -19,6 +19,13 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
+            background-color: #3F1210;
+        }
+        .navbar-inverse .navbar-brand {
+            color: white;
+        }
+        .navbar-inverse .navbar-brand:hover {
+            color: #999;
         }
         #trailer .modal-dialog {
             margin-top: 200px;
@@ -36,12 +43,17 @@ main_page_head = '''
             height: 100%;
         }
         .movie-tile {
+            color: black;
             margin-bottom: 20px;
             padding-top: 20px;
+            opacity: 0.9;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            color: #3F1210;
+            background-color: #2E2E2E;
+            box-shadow: 3px 5px 40px black;
             cursor: pointer;
+            opacity: 1;
         }
         .scale-media {
             padding-bottom: 56.25%;
