@@ -19,19 +19,19 @@ doctor_strange = media.Movie("Doctor Strange",
                              "https://www.youtube.com/watch?v=Lt-U_t2pUHI")
 
 dark_knight = media.Movie("The Dark Knight",
-                              "Storyline",
-                              "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
-                              "https://www.youtube.com/watch?v=kmJLuwP3MbY")
+                          "Storyline",
+                          "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+                          "https://www.youtube.com/watch?v=kmJLuwP3MbY")
 
 deadpool = media.Movie("Deadpool",
-                           "Storyline",
-                           "https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg",
-                           "https://www.youtube.com/watch?v=9vN6DHB6bJc")
+                       "Storyline",
+                       "https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg",
+                       "https://www.youtube.com/watch?v=9vN6DHB6bJc")
 
 xmen_first_class = media.Movie("X-Men: First Class",
-                                 "Storyline",
-                                 "https://upload.wikimedia.org/wikipedia/en/5/55/X-MenFirstClassMoviePoster.jpg",
-                                 "https://www.youtube.com/watch?v=UrbHykKUfTM")
+                               "Storyline",
+                               "https://upload.wikimedia.org/wikipedia/en/5/55/X-MenFirstClassMoviePoster.jpg",
+                               "https://www.youtube.com/watch?v=UrbHykKUfTM")
 
 # Add Movie objects to list
 movies = [toy_story, avatar, doctor_strange, dark_knight, deadpool, xmen_first_class]
