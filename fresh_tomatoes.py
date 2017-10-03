@@ -55,6 +55,9 @@ main_page_head = '''
             cursor: pointer;
             opacity: 1;
         }
+        .movie-tile img {
+            box-shadow: 3px 5px 40px black;
+        }
         .scale-media {
             padding-bottom: 56.25%;
             position: relative;
