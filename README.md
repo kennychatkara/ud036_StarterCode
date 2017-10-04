@@ -18,7 +18,7 @@ To generate the Movie Trailer Website file "fresh_tomatoes.html":
   1. Open the command line interface application ("Terminal" application on Mac, Linux; "Command Prompt" application on Windows)
   
   2. Change directory to the location of the python 'entertainment_center.py' script
-    - Type "cd [full path of entertainment_center.py]"  
+    - Type "cd [full path of entertainment_center.py]" and press enter
       - For Example:  
         - "cd /Users/Username/Desktop/ud036_StarterCode/entertainment_center.py" (On Mac, Linux)  
         - "cd C:\Users\Username\Desktop\ud036_StarterCode\entertainment_center.py" (On Windows)
@@ -28,7 +28,7 @@ To generate the Movie Trailer Website file "fresh_tomatoes.html":
       - For Example:  
         - "python entertainment_center.py" (On Mac, Linux)  
         - "C:\Python27\python.exe entertainment_center.py" (On Windows)  
-- *Note: After running the python script, a browser will automatically open the generated "fresh_tomatoes.html" file*
+- **Note: Upon generating "fresh_tomatoes.html", the python script will automatically open the file in a browser**
   
 **Run**
 ---------------
